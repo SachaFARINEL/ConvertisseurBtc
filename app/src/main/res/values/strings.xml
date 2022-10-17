@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="montant_convertir">Montant à convertir</string>
+    <string name="convertisseur_de_monnaie">Convertisseur de monnaie</string>
+    <string name="valider">Valider</string>
+    <string name="en_quelle_devise">En quelle devise ?</string>
+    <string name="logo">logo</string>
+    <string name="undo">undo</string>
+</resources>
